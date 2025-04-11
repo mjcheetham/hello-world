@@ -1,0 +1,25 @@
+# C
+c/out
+
+# C++
+cpp/out
+
+# .NET
+dn/out
+dn/bin
+dn/obj
+
+# Go
+go/out
+
+# Java
+java/out
+
+# Rust
+rust/out
+
+# JavaScript
+js/out
+
+# Assembly
+asm/out
